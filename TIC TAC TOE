@@ -371,4 +371,130 @@ if __name__ == "__main__":
 			cur_player = player2
 		else:
 			cur_player = player1
-      
+
+
+Player 1
+Enter the name : raj
+
+
+Player 2
+Enter the name : rishi
+
+
+	--------------------------------
+	       	   SCOREBOARD       
+	--------------------------------
+	    raj 	     0
+	    rishi 	     0
+	--------------------------------
+
+Turn to choose for raj
+Enter 1 for X
+Enter 2 for O
+Enter 3 to Quit
+1
+
+
+	     |     |
+	     |     |   
+	_____|_____|_____
+	     |     |
+	     |     |   
+	_____|_____|_____
+	     |     |
+	     |     |   
+	     |     |
+
+
+Player  X  turn. Which box? : 1
+
+
+	     |     |
+	  X  |     |   
+	_____|_____|_____
+	     |     |
+	     |     |   
+	_____|_____|_____
+	     |     |
+	     |     |   
+	     |     |
+
+
+Player  O  turn. Which box? : 2
+
+
+	     |     |
+	  X  |  O  |   
+	_____|_____|_____
+	     |     |
+	     |     |   
+	_____|_____|_____
+	     |     |
+	     |     |   
+	     |     |
+
+
+Player  X  turn. Which box? : 4
+
+
+	     |     |
+	  X  |  O  |   
+	_____|_____|_____
+	     |     |
+	  X  |     |   
+	_____|_____|_____
+	     |     |
+	     |     |   
+	     |     |
+
+
+Player  O  turn. Which box? : 5
+
+
+	     |     |
+	  X  |  O  |   
+	_____|_____|_____
+	     |     |
+	  X  |  O  |   
+	_____|_____|_____
+	     |     |
+	     |     |   
+	     |     |
+
+
+Player  X  turn. Which box? : 7
+
+
+	     |     |
+	  X  |  O  |   
+	_____|_____|_____
+	     |     |
+	  X  |  O  |   
+	_____|_____|_____
+	     |     |
+	  X  |     |   
+	     |     |
+
+
+Player  X  has won the game!!
+
+
+	--------------------------------
+	       	   SCOREBOARD       
+	--------------------------------
+	    raj 	     1
+	    rishi 	     0
+	--------------------------------
+
+Turn to choose for rishi
+Enter 1 for X
+Enter 2 for O
+Enter 3 to Quit
+3
+Final Scores
+	--------------------------------
+	       	   SCOREBOARD       
+	--------------------------------
+	    raj 	     1
+	    rishi 	     0
+	--------------------------------
